@@ -11,7 +11,7 @@ export const users=[
    } ,
    {
       id:2,
-      firstName:"Esma",
+      firstName:"Esma", 
       lastName:"Karagülle",
       city:"Erzurum",
       age:21,// yaş numbera dönüşmüyor validation hatası yaptık // düzelttik

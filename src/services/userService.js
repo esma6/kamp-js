@@ -82,8 +82,8 @@ export default class UserService{
         this.loggerService.log(user)
     }
     list(){
-        return this.customers
-    }
+        return this.customers  
+    } 
 
     getCustomerById(id){
         return this.customers.find(u=>u.id ===id)
