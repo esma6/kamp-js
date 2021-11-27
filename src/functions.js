@@ -4,7 +4,7 @@ function addToCart(quantity,productName="Elma") {
 }
 
 //addToCart()
-addToCart(10)
+addToCart(10) 
 //addToCart(15)
 
 let sayHello = ()=>{
